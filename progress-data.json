@@ -1,0 +1,15 @@
+{
+  "2026-06-06": {
+    "wake": false,
+    "exercise": false,
+    "breakfast": false,
+    "aptitude": false
+  },
+  "2026-06-07": {
+    "jobs": false,
+    "note": "",
+    "mood": 1,
+    "wake": true,
+    "exercise": false
+  }
+}
